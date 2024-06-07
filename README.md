@@ -1,4 +1,4 @@
-# Parkinsons-Disease--prediction
+# Parkinsons-Disease prediction
 #
 #
 ##
